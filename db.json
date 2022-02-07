@@ -1,0 +1,12 @@
+{
+    "data": [
+      {
+        "greeting": "hello",
+        "id": 1
+      },
+      {
+        "greeting": "bonjour",
+        "id": 2
+      }
+    ]
+  }
